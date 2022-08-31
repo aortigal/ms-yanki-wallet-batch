@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: ms-yanki-wallet-batch
+
+  cloud:
+    config:
+      username: root
+      password: l$14V12GOKEf
+      uri: http://host.docker.internal:8094
